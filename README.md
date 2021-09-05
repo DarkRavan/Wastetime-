@@ -1,0 +1,2 @@
+# Wastetime-
+For learning
