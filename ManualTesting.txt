@@ -4,3 +4,8 @@ Smoke testing
 Regression Testing
 WhiteBox Testing
 BlackBox Testing
+Unit Testing
+Integration Testing
+UAT Testing
+System Testing
+
