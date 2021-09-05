@@ -1,0 +1,6 @@
+This is for the manual testing concepts are understandable like-
+Sanity Testing
+Smoke testing
+Regression Testing
+WhiteBox Testing
+BlackBox Testing
